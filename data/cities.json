@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "bfad",
+      "cityName": "Edinburgh",
+      "date": "2024-07-16T18:17:36.584Z",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "notes": "",
+      "position": {
+        "lat": "55.93853917471525",
+        "lng": "-3.1723022460937504"
+      }
+    },
+    {
+      "id": "1399",
+      "cityName": "Edinburgh",
+      "date": "2024-07-16T18:18:02.128Z",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "notes": "",
+      "position": {
+        "lat": "55.93720331889182",
+        "lng": "-3.1668090820312504"
+      }
+    },
+    {
+      "id": "8e28",
+      "cityName": "Tbilisi",
+      "date": "2024-07-16T18:19:18.828Z",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "notes": "",
+      "position": {
+        "lat": "41.67374334946021",
+        "lng": "44.8187255859375"
+      }
+    },
+    {
+      "id": "5207",
+      "cityName": "London",
+      "date": "2024-07-16T18:19:39.980Z",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "notes": "",
+      "position": {
+        "lat": "51.51133768365903",
+        "lng": "-0.13183593750000003"
+      }
+    },
+    {
+      "id": "882e",
+      "cityName": "Derry",
+      "date": "2024-07-18T09:49:20.458Z",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "notes": "",
+      "position": {
+        "lat": "54.78801734817893",
+        "lng": "-7.031250000000001"
+      }
+    },
+    {
+      "id": "0f2a",
+      "cityName": "Abrantes",
+      "date": "2024-07-18T10:04:09.866Z",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "notes": "",
+      "position": {
+        "lat": "39.436192999314095",
+        "lng": "-8.020019531250002"
+      }
+    }
+  ]
+}
